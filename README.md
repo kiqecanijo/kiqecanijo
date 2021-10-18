@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-kiqecanijo/kiqecanijo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/kiqecanijo"><img src="https://api.daily.dev/devcards/f1ff82c62e7e46308bffcbbb6af27d59.png?r=9z6" width="400" alt="Enrique Serrano's Dev Card"/></a>
