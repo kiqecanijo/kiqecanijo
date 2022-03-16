@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/{kiqecanijo}/count.svg)
+
 - 👋 Hi, I’m @kiqecanijo
 - 👀 I’m interested in anything related to web
 - 🌱 I’m currently learning about code :)
