@@ -1,9 +1,10 @@
-![Visitor Count](https://profile-counter.glitch.me/{kiqecanijo}/count.svg)
 
 <h1 align="center">Hi 👋, I'm Henri</h1>
 <h3 align="center">A passionate senior developer from Mexico</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiqecanijo&label=Profile%20views&color=0e75b6&style=flat" alt="kiqecanijo" /> </p>
+<p align="left">
+  ![Visitor Count](https://profile-counter.glitch.me/{kiqecanijo}/count.svg)
+ </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiqecanijo" alt="kiqecanijo" /></a> </p>
 
