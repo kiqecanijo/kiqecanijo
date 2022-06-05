@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Henri</h1>
+<h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">A passionate Senior Developer from Mexico 🌮🇲🇽🫔</h3>
 <p align="center"><a href="https://app.daily.dev/kiqecanijo"><img src="https://api.daily.dev/devcards/f1ff82c62e7e46308bffcbbb6af27d59.png?r=9z6" width="400" alt="Enrique Serrano's Dev Card"/></a></p>
 <p align="left"> <a href="https://twitter.com/kiqecanijo" target="blank"><img src="https://img.shields.io/twitter/follow/kiqecanijo?logo=twitter&style=for-the-badge" alt="kiqecanijo" /></a> </p>
