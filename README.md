@@ -39,12 +39,3 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{kiqecanijo}/count.svg)
 
-<h3>🕹 Have some fun</h3>
-
-
-![](http://hc.lc:5000/game)
- 
-|                                    |                                      |                                     |                                     |                                       |
-| ---------------------------------- | ------------------------------------ | ----------------------------------- | ----------------------------------- | ------------------------------------- |
-|                                    | [⬆️](http://hc.lc:5000/input/UP)    |                                      | [🅱️](http://hc.lc:5000/input/B)     | [🅰️](http://hc.lc:5000/input/A)      |
-| [⬅️](http://hc.lc:5000/input/LEFT) | [⬇️](http://hc.lc:5000/input/DOWN)  | [➡️](http://hc.lc:5000/input/RIGHT) | [⏺️](http://hc.lc:5000/input/START) | [⏏️](http://hc.lc:5000/input/SELECT) |
